@@ -12,7 +12,7 @@
 
 using namespace std;
 
-const in NUMBER = 12; // | This is a constant integer. It can not be change in the program only
+const int NUMBER = 12; // | This is a constant integer. It can not be change in the program only
 					  // | by edditing the code can you change this variable. 
 
 int main()
