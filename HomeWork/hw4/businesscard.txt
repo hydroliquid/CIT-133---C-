@@ -1,0 +1,12 @@
+Here is your official business card:
+*------------------------------------------------*
+|
+| Michael Benton
+| Programmer
+| Computer & Information Technology
+| Office Phone: 505-465-2929
+| Mobile Phone: 707-465-1212
+| mjb@outlook.com
+| Mail code: D
+| Magic number: 1200.88
+*------------------------------------------------*
